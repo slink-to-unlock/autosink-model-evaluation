@@ -1,4 +1,4 @@
-PROJECT = myproject
+PROJECT = autosink_model_evaluation
 
 all: install lint test format
 
